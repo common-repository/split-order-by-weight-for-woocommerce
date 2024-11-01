@@ -1,0 +1,37 @@
+input#priority {
+    width: 50%;
+	margin: 10px;
+}
+
+
+select#attribute {
+    width: 50%;
+	margin: 10px;
+}select#variation {
+    width: 50%;
+	margin: 10px;
+}
+a.addvariation
+{
+	    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+	    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+	touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+}
+table#examples, table#examples th,table#examples td {
+  border: 1px solid black;
+}
+
